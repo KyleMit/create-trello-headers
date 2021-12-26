@@ -1,0 +1,37 @@
+[
+  {
+    "title": "🌱 Backlog",
+    "color": "#2269FC",
+    "desc": "If time were infinite..."
+  },
+  {
+    "title": "👀 Medium",
+    "color": "#dea006",
+    "desc": "Tree would be better if..."
+  },
+  {
+    "title": "✨ High",
+    "color": "#ce5000",
+    "desc": "Tree won't ship without..."
+  },
+  {
+    "title": "🎯 Critical",
+    "color": "#c51b06",
+    "desc": "Tree Can't be Used because..."
+  },
+  {
+    "title": "🔨 In Progress",
+    "color": "#4074c9",
+    "desc": "Working on Today"
+  },
+  {
+    "title": "🔎 PR/QA/UA",
+    "color": "#40aac9",
+    "desc": "Under Review"
+  },
+  {
+    "title": "🎉 Done",
+    "color": "#61BD4F",
+    "desc": "Finished... Next!"
+  }
+]
